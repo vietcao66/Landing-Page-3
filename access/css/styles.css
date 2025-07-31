@@ -8,3 +8,11 @@ body {
   font-style: 1.6rem;
   font-family: "Sora", sans-serif;
 }
+a {
+  text-decoration: none;
+}
+/* =====================header================= */
+.header {
+  min-height: 100vh;
+  background: #10375c;
+}
